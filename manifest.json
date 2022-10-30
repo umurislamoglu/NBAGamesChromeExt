@@ -1,0 +1,11 @@
+{
+    "name":"NBA Games",
+    "version":"1.0.0",
+    "description":"This is an extension to look up NBA Games",
+    "manifest_version": 3,
+    "author": "Umur Islamoglu",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "NBA Games"
+    }
+}
